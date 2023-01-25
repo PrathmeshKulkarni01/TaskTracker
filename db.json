@@ -1,0 +1,22 @@
+{
+  "taskList": [
+    {
+      "id": 1,
+      "text": "Project Meeting",
+      "day": "Feb 4th at 2 PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Wish Birthday",
+      "day": "Feb 5th at 12 AM",
+      "reminder": true
+    },
+    {
+      "text": "Watch movie",
+      "day": "11th Feb Friday",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
